@@ -1,4 +1,4 @@
-
+--[[เสือกเปิด Sorceหาเเม่มึงมั้ง]]--
 
 do
 	local v0 = string.char;
